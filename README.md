@@ -20,8 +20,8 @@ The purpose is to refactor a HAJDU EnergoLux 751.2 electromechanical wash machin
 
 ## Architecture
 
-![image](./images/block1.png "Block diagram")
-![image](./images/block2.png "Wiring scheme")
+![image](./images/block1.PNG "Block diagram")
+![image](./images/block2.PNG "Wiring scheme")
 
 
 ### 1. Washmachine Electromechanic Resources (WER)
@@ -30,27 +30,27 @@ The resources of the original wash machine like wash machine and spinning motors
 
 #### Switches
 
-   B1  - Changing the direction of the washing motor
-   B2  - Starting the washing motor (B3 before, B4 must be turned off)
-   B3  - Motor condensator wash machine or spin 1
-   B4  - Motor condensator wash machine or spin 2
-   B5  - Starting the spin (B3 before, B4 must be switched)
-   B6  - Starting the pump
-   B7  - Switching the latch
-   B8  - Switching the flushing valve
-   B9  - Starting the magnet valve (water feeding)
-   B10 - Switching the 700 W heating pad
-   B11 - Switching the 1200 W heating pad
+B1  - Changing the direction of the washing motor<br />
+B2  - Starting the washing motor (B3 before, B4 must be turned off)<br />
+B3  - Motor condensator wash machine or spin 1<br />
+B4  - Motor condensator wash machine or spin 2<br />
+B5  - Starting the spin (B3 before, B4 must be switched)<br />
+B6  - Starting the pump<br />
+B7  - Switching the latch<br />
+B8  - Switching the flushing valve<br />
+B9  - Starting the magnet valve (water feeding)<br />
+B10 - Switching the 700 W heating pad<br />
+B11 - Switching the 1200 W heating pad
 
 #### Sensors
 
-   F5A - T>36C temperature sensor
-   F5B - T>55C temperature sensor
-   F5C - T>85C temperature sensor
-   FA  - Water level sensor (low)
-   FK  - Water level sensor (middle)
-   FM  - Water level sensor (high)
-   FPWR - "Resources under voltage" sensor (0-5V)
+F5A - T>36C temperature sensor<br />
+F5B - T>55C temperature sensor<br />
+F5C - T>85C temperature sensor<br />
+FA  - Water level sensor (low)<br />
+FK  - Water level sensor (middle)<br />
+FM  - Water level sensor (high)<br />
+FPWR - "Resources under voltage" sensor (0-5V)
 
 
 
@@ -60,28 +60,28 @@ It is responsible for the control of wash machine resources, storing and running
 
 #### Outputs
 
-   B1..B11 = 11 output for switching the resources of the WER (in optimized way)
-   SW1 = 1 output for the main current swith relay (in optimized way)
-   WCU_INT = WCU event signal interrupt
+B1..B11 = 11 output for switching the resources of the WER (inoptimized way)<br />
+SW1 = 1 output for the main current swith relay (in optimized way)<br />
+WCU_INT = WCU event signal interrupt<br />
 
-   Summary: 12 digital outputs
+Summary: 12 digital outputs
 
 #### Inputs
 
-   F5A, F5B, F5C = Temperature level sensors (3 digital inputs)
-   FA, FK, FM = Water level sensors (3 digital inputs)
-   UD1 = System under voltage detector sensor
-   UD2 = Water temperature overrun detector sensor
-   FRD = Water flow through sensor (EXT INT)
-   ACS = AC current sensor analog input
+F5A, F5B, F5C = Temperature level sensors (3 digital inputs)<br />
+FA, FK, FM = Water level sensors (3 digital inputs)<br />
+UD1 = System under voltage detector sensor<br />
+UD2 = Water temperature overrun detector sensor<br />
+FRD = Water flow through sensor (EXT INT)<br />
+ACS = AC current sensor analog input<br />
 
-   Summary: 9 digital inputs, 1 analog input
+Summary: 9 digital inputs, 1 analog input
 
 #### Communication
 
-   I2C interface (SDA, SCL)
+I2C interface (SDA, SCL)<br />
 
-   WCU RESET = Full voltage releif of the electric systems of the wash machine
+WCU RESET = Full voltage releif of the electric systems of the wash machine<br />
 
 
 
@@ -90,17 +90,17 @@ It is responsible for the control of wash machine resources, storing and running
 It is responsible for the implementation of the user interface, for the selection of the washing programs, starting and stopping the washing programs, displaying status informations, generating sound effects. It runs the measuring programs and the related calculations. Ensures the WIFI interface and the communication with other devices.
 
 #### Inputs
-   - pushbuttons (6 pcs): POWER, START/STOP, +, -, SELECT, RETURN
-   - WCU_INT
+- pushbuttons (6 pcs): POWER, START/STOP, +, -, SELECT, RETURN
+- WCU_INT
 
 #### Outputs
-   - pushbutton LEDs (6 pcs)
+- pushbutton LEDs (6 pcs)
 
 #### I2C
-   - RTC module, WCU
+- RTC module, WCU
 
 #### RxTx
-   - WIFI module
+- WIFI module
 
 
 #### Comment
