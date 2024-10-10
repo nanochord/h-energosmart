@@ -1,0 +1,33 @@
+Order
+-----
+
+CT1	ACS712 20A Current Sensor Module		1 pcs	  410,-
+FRS1	Flow Rate Sensor				1 pcs	1 218-,
+VD1..3	Power supply Driver Electronic Transformer	3 pcs	  317,-
+
+ESP8266-Serial-Wifi-Transceiver- (ESP-07)		1 pcs	1 628,-
+ZS042 DS3231 AT24C32 IIC module precision (RTC)		1 pcs	  410,-
+MP3 DFPlayer						1 pcs	  755,-
+
+http://www.ebay.com/itm/New-5A-20A-30A-Range-Current-Sensor-Module-ACS712-For-Arduino-Raspberry-Pi-UNO-/112275500486?var=&hash=item1a24242dc6:m:mfLQVHMW1Di-m4aE7tlg91g
+
+http://www.ebay.com/itm/1PC-1-30L-min-1-75MPa-Water-Flow-Sensor-Flowmeter-Water-Flow-Rate-Sensor-Black-/201411234904?hash=item2ee50b8c58:g:YgsAAOSwHnFV1Zkh
+
+http://www.ebay.com/itm/AC-85V-265V-to-DC-9-12V-LED-Electronic-Transformer-Power-Supply-Driver-3X1W-Gift/111816323915?_trksid=p2047675.c100623.m-1&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D2%26asc%3D41451%26meid%3D024f8dff7a15427eb8388347dc53c36f%26pid%3D100623%26rk%3D4%26rkt%3D6%26sd%3D272550889258
+
+http://www.ebay.com/itm/ESP8266-Serial-Wifi-Transceiver-Board-Module-for-Arduino-ESP-07-V1-0-/162082552620?hash=item25bcdf7b2c:g:EIYAAOSwintXR-7S
+
+http://www.ebay.com/itm/ZS042-DS3231-AT24C32-IIC-module-precision-Real-time-clock-quare-memory-Arduino-/221549752451?hash=item339564f083:g:gHQAAOSwAPlXhy8I
+
+http://www.ebay.com/itm/TF-Card-U-Disk-Mini-MP3-Player-Audio-Voice-Module-Board-For-Arduino-DFPlayer-/332035458402?hash=item4d4edb0562:g:aPkAAOSwaB5Xvl1~
+
+
+-----------------------------
+
+Power supply		12V 3A				1 pcs	1 530,-
+DC Relay 12V 16A					1 pcs	  490,-
+
+http://www.ebay.com/itm/110V-220V-to-DC5V-12V-24V-48V-Switch-Power-Supply-Driver-Adapter-LED-Strip-Light/142350726194?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIM.MBE%26ao%3D2%26asc%3D41451%26meid%3D77c603d711ed4f2c8978ef7ded86b36c%26pid%3D100005%26rk%3D6%26rkt%3D6%26mehot%3Dpp%26sd%3D371514993202
+
+http://www.ebay.com/itm/1PCS-SMIH-12VDC-SL-C-DC-12V-16A-250VAC-Power-Relay-NEW-CK-/191941275550?hash=item2cb0976f9e:g:KT8AAOSw65FXp~nH
+

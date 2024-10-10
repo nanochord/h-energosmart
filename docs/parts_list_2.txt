@@ -1,0 +1,19 @@
+- pin pcb connectors
+- x pcb connectors
+- pin array
+- speaker
+- 1 K resistor (13 pcs)
+- 220 ohm resisotor (4 pcs)
+- 100 nF condensator (10 pcs)
+- 10 uF / 16V (2 db)
+- Waterproof LED illumination pushbutton (4 pcs: POWER, START, SEL, RET)
+- 12VDC/3A switching power supply
+- 12VDC / 16A relay (2 pcs)
+- 1N4004 diode (2 pcs)
+- BC547 (2 pcs)
+- 7805 stabilizator IC
+- Cooler board TO-220
+- PCB connectors / screws (2 pólusú, 3 db)
+- Bread board
+- Spacers
+- Plexi

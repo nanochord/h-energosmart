@@ -1,0 +1,9 @@
+K:\Work\Home\HajduEnergo\HajduEnergoSmart\ImageToSource\bin\Debug\ImageToSource.exe.config
+K:\Work\Home\HajduEnergo\HajduEnergoSmart\ImageToSource\bin\Debug\ImageToSource.exe
+K:\Work\Home\HajduEnergo\HajduEnergoSmart\ImageToSource\bin\Debug\ImageToSource.pdb
+K:\Work\Home\HajduEnergo\HajduEnergoSmart\ImageToSource\obj\Debug\ImageToSource.csprojResolveAssemblyReference.cache
+K:\Work\Home\HajduEnergo\HajduEnergoSmart\ImageToSource\obj\Debug\ImageToSource.MainForm.resources
+K:\Work\Home\HajduEnergo\HajduEnergoSmart\ImageToSource\obj\Debug\ImageToSource.Properties.Resources.resources
+K:\Work\Home\HajduEnergo\HajduEnergoSmart\ImageToSource\obj\Debug\ImageToSource.csproj.GenerateResource.Cache
+K:\Work\Home\HajduEnergo\HajduEnergoSmart\ImageToSource\obj\Debug\ImageToSource.exe
+K:\Work\Home\HajduEnergo\HajduEnergoSmart\ImageToSource\obj\Debug\ImageToSource.pdb

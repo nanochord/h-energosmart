@@ -1,0 +1,59 @@
+Current (power consumption) measurement
+---------------------------------------
+https://electronics.stackexchange.com/questions/23591/ac-current-sensor
+30A SCT-013-030
+http://www.ebay.com/itm/30A-SCT-013-030-Non-invasive-AC-current-sensor-Split-Core-Current-Transformer-AL-/401087400024?hash=item5d62ac0858:g:SWkAAOSwHoFXvltZ
+http://www.ebay.com/itm/New-5A-20A-30A-Range-Current-Sensor-Module-ACS712-For-Arduino-Raspberry-Pi-UNO-/112275500486?var=&hash=item1a24242dc6:m:mfLQVHMW1Di-m4aE7tlg91g
+http://henrysbench.capnfatz.com/henrys-bench/arduino-current-measurements/acs712-arduino-ac-current-tutorial/
+
+Capacitive voltage detection
+----------------------------
+https://electronics.stackexchange.com/questions/94782/capacitive-ac-voltage-detection
+http://www.ebay.com/itm/Mini-3X1W-AC85V-265V-to-DC9-14V-LED-Power-supply-Driver-Electronic-Transformer-/272550889258?hash=item3f754c872a:g:VtQAAOSwWxNYtpvf
+
+
+Flow rate sensor
+----------------
+http://www.ebay.com/itm/Plastic-Shell-0-5-30L-min-1-2Mpa-G1-2-Thread-Water-Flow-Rate-Sensor-Flowmeter-/321498887186?hash=item4adad3b412:g:qXYAAOSw4A5Y1TJ8
+http://www.ebay.com/itm/Plastic-1-30L-min-1-2Mpa-G3-4-Male-Thread-Water-Flow-Rate-Sensor-Flowmeter-/231314096626?hash=item35db6501f2:g:VjUAAOSw2gxYuLD2
+...
+
+
+Waterproof push buttons
+-----------------------
+http://www.ebay.com/itm/Metal-16mm-Off-On-Push-Button-Waterproof-Momentary-Switch-SPST-Blue-LED-Light/332032068344?_trksid=p2047675.c100623.m-1&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D2%26asc%3D41451%26meid%3Dff17ea68e7964fe7b375a34e877cd792%26pid%3D100623%26rk%3D5%26rkt%3D6%26sd%3D311165176923
+
+http://www.ebay.com/itm/Chrome-4-Pin-12mm-Led-Light-Metal-Push-Button-Momentary-Switch-Waterproof-12v/292143055854?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIM.MBE%26ao%3D2%26asc%3D41451%26meid%3D6dc518694bed4e4eb5d0f3a767261138%26pid%3D100005%26rk%3D5%26rkt%3D6%26sd%3D302324343247
+
+RTC
+---
+
+http://www.ebay.com/itm/ZS042-DS3231-AT24C32-IIC-module-precision-Real-time-clock-quare-memory-Arduino-/221549752451?hash=item339564f083:g:gHQAAOSwAPlXhy8I
+
+WIFI
+----
+
+http://www.ebay.com/itm/ESP8266-Serial-Wifi-Transceiver-Board-Module-for-Arduino-ESP-07-V1-0-/162082552620?hash=item25bcdf7b2c:g:EIYAAOSwintXR-7S
+
+Input port protection:
+----------------------
+https://www.digikey.com/en/articles/techzone/2012/apr/protecting-inputs-in-digital-electronics
+
+MP3 Player
+----------
+https://www.dfrobot.com/wiki/index.php/DFPlayer_Mini_SKU:DFR0299
+https://www.banggood.com/DFPlayer-Mini-MP3-Player-Module-For-Arduino-p-969191.html?p=JB0100137663201303TC
+http://www.ebay.com/itm/TF-Card-U-Disk-Mini-MP3-Player-Audio-Voice-Module-Board-For-Arduino-DFPlayer-/332035458402?hash=item4d4edb0562:g:aPkAAOSwaB5Xvl1~
+
+
+Relay board:
+-----------
+
+https://www.sainsmart.com/8-channel-dc-5v-relay-module-for-arduino-pic-arm-dsp-avr-msp430-ttl-logic.html
+
+
+Wiring
+------
+
+http://www.ebay.com/itm/1450Pcs-Connector-Kit-2-54-mm-PCB-Pin-Headers-Wire-Connectors-w-Box-For-Dupont-/332154218913?hash=item4d55ef29a1:g:O24AAOSwOgdYx8Xq
+http://www.ebay.com/itm/Flat-Flexible-Rainbow-Ribbon-Dupont-Wire-PCB-Cable-Pitch-1-27mm10Way-50Way-/222532314266?var=&hash=item33cff5a49a:m:mrlSl7u02OzY3CcDkN10V8w
