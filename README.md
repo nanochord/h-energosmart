@@ -1,7 +1,7 @@
 # HAJDU Energo-Smart - 2017
 
 ## Concept
-The purpose is to refactor a HAJDU EnergoLux 751.2 electromechanical wash machine designed in the 80's achieving the following goals:
+The purpose of this project is to refactor a HAJDU EnergoLux 751.2 electromechanical wash machine designed in the 80's achieving the following goals:
 
 - The existing electromechanical controller will be replaced with a microcontroller based one;
 - In addition to the original washing programs designed by the factory of the wash machine new washing programs will be defined and added, furthermore, custom washing programs can be stored, as well;
@@ -24,9 +24,9 @@ The purpose is to refactor a HAJDU EnergoLux 751.2 electromechanical wash machin
 ![image](./images/block2.PNG "Wiring scheme")
 
 
-### 1. Washmachine Electromechanic Resources (WER)
-----------------------------------------------
-The resources of the original wash machine like wash machine and spinning motors, pump motor, electromechanical latch, flushing and magnet valves, heating elements, interference filter condensators, water level and temperature sensors, flow meter (not original part), etc.
+### 1. Washmachine Electromechanical Resources (WER)
+
+Includes the resources of the original wash machine like wash machine and spinning motors, pump motor, electromechanical latch, flushing and magnet valves, heating elements, interference filter condensators, water level and temperature sensors, flow meter (not original part), etc.
 
 #### Switches
 
@@ -87,7 +87,7 @@ WCU RESET = Full voltage releif of the electric systems of the wash machine<br /
 
 ### 3. Smart-Interface Control Unit (SCU)
 
-It is responsible for the implementation of the user interface, for the selection of the washing programs, starting and stopping the washing programs, displaying status informations, generating sound effects. It runs the measuring programs and the related calculations. Ensures the WIFI interface and the communication with other devices.
+It is responsible for the implementation of the user interface, for the selection of the washing programs, starting and stopping the washing programs, displaying status information, generating sound effects. It runs the measuring programs and the related calculations. Ensures the WIFI interface and the communication with other devices.
 
 #### Inputs
 - pushbuttons (6 pcs): POWER, START/STOP, +, -, SELECT, RETURN
